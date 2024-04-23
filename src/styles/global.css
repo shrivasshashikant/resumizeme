@@ -139,7 +139,7 @@ p {
   justify-content: space-around;
   align-items: center;
   bottom: 0;
-  width: 60%;
+  width: 100%;
   justify-content: flex-start;
   margin-left: -20px 
 }
@@ -354,7 +354,7 @@ height: 32px;
 }
 .botom .check {
   width: 25px;
-  margin-top: 11px;
+  margin-top: 14px;
   padding-right: 10px;
 }
 .check input {
